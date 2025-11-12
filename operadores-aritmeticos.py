@@ -2,7 +2,7 @@
     Uso de operadores aritméticos
 """
 
-a = 10
+a = 100
 b = 3
 
 print("Suma:", a + b)         # 13
