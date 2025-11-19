@@ -2,8 +2,8 @@
     Uso de operadores aritméticos
 """
 
-a = 10
-b = 3
+a = 20
+b = 4
 
 print("Suma:", a + b)         # 13
 print("Resta:", a - b)        # 7
